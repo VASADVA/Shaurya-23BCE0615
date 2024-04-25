@@ -1,1 +1,1 @@
-# Shaurya-23BCE0615
+After successfully simulating the maze and coding the lottery game, I proceeded to compile both the arcade and floor codes, culminating in the compilation of the final code, which also integrated Vansh's contributions
